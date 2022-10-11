@@ -45,11 +45,11 @@ Es la solucion de la guia que entregada por  el instructor
 
 MODIFICACIONES:
 
-Se personaliaron ciertos colores en Sass
+✅Se personaliaron ciertos colores en Sass
 
-Se cambio el nombre por el programador
+✅Se cambio el nombre por el programador
 
-Se cambio la foto y la parte principal de la pagina
+✅Se cambio la foto y la parte principal de la pagina
 
 
 ⚪CARPETA:PRODUCT CARD INCLINADA 
@@ -65,16 +65,16 @@ en el carrito de compras
 
 MODIFICACIONES:
 
-se perzonalizaron los colores
+✅se perzonalizaron los colores
 
-se agrego un producto mas de compra
+✅se agrego un producto mas de compra
 
-se perzonalizaron los productos de compra
+✅se perzonalizaron los productos de compra
 
 
  ⚪CARPETA: PROYECTO DRAG_DROP
 
-Es la solucion de la guia que nos entrego el instructorEs la solucion de la guia que nos entrego el instructor
+Es la solucion de la guia que nos entrego el instructor
 
 en esta podemos ver una pagina con un draw and drop de un total de 4 personas alatorias  
 
@@ -85,10 +85,10 @@ los cuales se pueden arrastrar
 
 MODIFICACIONES:
 
-Se personaliaron ciertos colores en Sass
+✅Se personaliaron ciertos colores en Sass
 
-Se cambiaron las sombras de los draws
+✅Se cambiaron las sombras de los draws
 
-Se cambiaron los nombres de mis compañeros de grupo
+✅Se cambiaron los nombres de mis compañeros de grupo
 
-Se cambiaron las imagenes
+✅Se cambiaron las imagenes
